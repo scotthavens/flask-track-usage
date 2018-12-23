@@ -4,5 +4,5 @@ include LICENSE
 include README.md
 recursive-include alembic *
 recursive-include test *
-recursive-include src *
+recursive-include flask_track_usage *
 recursive-include docs *
